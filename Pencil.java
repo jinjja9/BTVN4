@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
 public class Pencil {
-    import java.util.Scanner;
-
-    public class ButChi {
         Scanner sc = new Scanner(System.in);
         public String tenbut, giaBan, thuongHieu, mauSac, chatLieu, doCung;
         public void nhapTTButChi(Scanner sc) {
@@ -39,5 +36,4 @@ public class Pencil {
             System.out.println("Chat lieu: " + chatLieu);
             System.out.println("Đo cung: " + doCung);
         }
-    }
 }
