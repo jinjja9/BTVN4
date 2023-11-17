@@ -22,7 +22,7 @@ public class Note {
             System.out.println("Mau sac:");
             String mauBia = sc.nextLine();
             this.mauBia = mauBia;
-            System.out.println("Chất liệu giấy:");
+            System.out.println("Chat lieu giay:");
             String chatGiay = sc.nextLine();
             this.chatGiay = chatGiay;
             System.out.println("Kich thuoc:");
